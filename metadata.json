@@ -1,0 +1,8 @@
+{
+  "name": "BanquetMaster AI - Professional Banquet Planning & Quotation System",
+  "description": "An enterprise-grade banquet planning and quotation system for hotels and halls, featuring AI-powered sales assistance, venue management, and automated quotation generation with a clean hexagonal architecture approach.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
